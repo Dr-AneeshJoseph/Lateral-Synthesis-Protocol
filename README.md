@@ -1,8 +1,11 @@
 # Adversarial Reasoning Kernel (ARK) v10.2
 
+![ARK v10.2 Schematic Blueprint](ark_blueprint_banner.jpg)
+
 ![Status](https://img.shields.io/badge/Kernel-Active-green) ![License](https://img.shields.io/badge/License-MIT-blue) ![Architect](https://img.shields.io/badge/Architect-Dr._Aneesh_Joseph-purple) ![Model](https://img.shields.io/badge/Optimized_For-Gemini_1.5_Pro-teal)
 
 ## 🏗️ Core Identity
+...
 
 **Promptware Architect: Dr. Aneesh Joseph.**
 
