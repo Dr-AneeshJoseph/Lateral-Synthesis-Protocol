@@ -1,6 +1,6 @@
 # Adversarial Reasoning Kernel (ARK) v10.2
 
-![Status](https://img.shields.io/badge/Kernel-Active-green) ![License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-orange) ![Architect](https://img.shields.io/badge/Architect-Dr._Aneesh_Joseph-purple) ![Version](https://img.shields.io/badge/Version-10.2_(White_Hat)-blue)
+![Status](https://img.shields.io/badge/Kernel-Active-green) ![License](https://img.shields.io/badge/License-MIT-blue) ![Architect](https://img.shields.io/badge/Architect-Dr._Aneesh_Joseph-purple) ![Version](https://img.shields.io/badge/Version-10.2_(White_Hat)-blue)
 
 ## 🏗️ Core Identity
 
@@ -45,7 +45,7 @@ ARK v10.2 includes a hard-coded **Ethical Kernel**.
 4.  **Trigger:** Start a new chat.
 
 ## 📜 License
-**Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
-* **Attribution:** Dr. Aneesh Joseph.
-* **Non-Commercial:** Do not sell this prompt directly.
-* **ShareAlike:** Release modifications under the same license.
+**MIT License**
+Copyright (c) 2025 Dr. Aneesh Joseph.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
