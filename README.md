@@ -38,6 +38,16 @@ ARK v10.2 includes a hard-coded **Ethical Kernel**.
 * **Blocked:** Offensive Cyber Operations, Kinetic Attack Planning, Human Rights Violations.
 * **Filter Z:** The kernel automatically "kills" any plan that violates international law or human rights, regardless of efficiency.
 
+## 📚 Case Studies (Proof of Concept)
+See the **ARK** in action against real-world wicked problems:
+
+| Domain | Case Study |
+| :--- | :--- |
+| **Bureaucracy** | **[📂 The Insurance Hack](examples/01_bureaucracy_hack.md)**<br>Using regulatory law (ERISA) to reverse an $85k medical denial. |
+| **Logistics** | **[📂 The Humanitarian Run](examples/02_humanitarian_ops.md)**<br>Smuggling education past X-ray checkpoints using density masking. |
+| **Supply Chain** | **[📂 The Vulture Protocol](examples/03_supply_chain_hack.md)**<br>Harvesting shortage chips from consumer electronics (Legal Arbitrage). |
+| **Psychology** | **[📂 The Canary Trap](examples/04_insider_threat.md)**<br>Detecting corporate espionage without spyware using Information Asymmetry. |
+
 ## 🛠️ Installation
 1.  Open `system_instruction.md`.
 2.  Copy the raw text.
